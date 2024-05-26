@@ -1,2 +1,1 @@
-# PrepCurse-Henry
-prueba de PrepCurse Henry
+Este es una prueba de creacion un repositorio en GitHub
